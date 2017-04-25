@@ -1,4 +1,4 @@
-baseurl = "https://vikramsk.com"
+baseurl = "https://vikramsk.com/"
 theme = "cocoa-eh"
 builddrafts = true
 canonifyurls = true
