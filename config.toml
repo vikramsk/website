@@ -1,4 +1,4 @@
-baseurl = "https://vikramsk.github.io/website"
+baseurl = "https://vikramsk.com"
 theme = "cocoa-eh"
 builddrafts = true
 canonifyurls = true

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Microservices on Vikram Sreekumar</title>
-    <link>https://example.com/tags/microservices/</link>
+    <link>https://vikramsk.com/tags/microservices/</link>
     <description>Recent content in Microservices on Vikram Sreekumar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 19 Mar 2017 23:55:00 +0530</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/microservices/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vikramsk.com/tags/microservices/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Product Readiness: Dev Ops</title>
-      <link>https://example.com/blog/product-readiness-dev-ops/</link>
+      <link>https://vikramsk.com/blog/product-readiness-dev-ops/</link>
       <pubDate>Sun, 19 Mar 2017 23:55:00 +0530</pubDate>
       
-      <guid>https://example.com/blog/product-readiness-dev-ops/</guid>
+      <guid>https://vikramsk.com/blog/product-readiness-dev-ops/</guid>
       <description>This is the talk I gave at a prelude for RootConf India, 2017 held at Directi, Mumbai. This is a modified version of the previous talk I gave on Production Readiness, with a focus towards Dev Ops.
   </description>
     </item>
     
     <item>
       <title>Production Readiness: Extreme Engineering Meetup</title>
-      <link>https://example.com/blog/production-readiness-extreme-engineering-meetup/</link>
+      <link>https://vikramsk.com/blog/production-readiness-extreme-engineering-meetup/</link>
       <pubDate>Sat, 11 Feb 2017 22:06:19 +0530</pubDate>
       
-      <guid>https://example.com/blog/production-readiness-extreme-engineering-meetup/</guid>
+      <guid>https://vikramsk.com/blog/production-readiness-extreme-engineering-meetup/</guid>
       <description>I recently gave a talk at the Extreme Engineering Mumbai meetup group on Production Readiness. In this talk I covered a couple of points one must keep in mind for running microservices in Production.
   </description>
     </item>
