@@ -1,4 +1,4 @@
-baseurl = "https://vikramsk.com/"
+baseurl = "https://vikramsk.github.io/website"
 theme = "cocoa-eh"
 builddrafts = true
 canonifyurls = true
@@ -25,7 +25,7 @@ highlightjs = true
 progressively = true
 lang = "en"
 github = "vikramsk"
-email = "you@example.com"
+email = "vikram1791@gmail.com"
 linkedin = "vikramsreekumar"
 twitter = "vikramsreekumar"
 social_banner = "img/banner.png"
