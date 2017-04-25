@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://example.com/about/</loc>
+    <lastmod>2017-04-23T16:15:45+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/blog/product-readiness-dev-ops/</loc>
+    <lastmod>2017-03-19T23:55:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/blog/production-readiness-extreme-engineering-meetup/</loc>
+    <lastmod>2017-02-11T22:06:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2017-04-23T16:15:45+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/blog/</loc>
+    <lastmod>2017-03-19T23:55:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/devops/</loc>
+    <lastmod>2017-03-19T23:55:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/microservices/</loc>
+    <lastmod>2017-03-19T23:55:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2017-04-23T16:15:45+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2017-04-23T16:15:45+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

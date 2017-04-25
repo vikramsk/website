@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Vikram Sreekumar</title>
+    <link>https://example.com/tags/</link>
+    <description>Recent content in Tags on Vikram Sreekumar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 23 Apr 2017 16:15:45 +0530</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://example.com/tags/</link>
+      <pubDate>Sun, 23 Apr 2017 16:15:45 +0530</pubDate>
+      
+      <guid>https://example.com/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devops</title>
+      <link>https://example.com/tags/devops/</link>
+      <pubDate>Sun, 19 Mar 2017 23:55:00 +0530</pubDate>
+      
+      <guid>https://example.com/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microservices</title>
+      <link>https://example.com/tags/microservices/</link>
+      <pubDate>Sun, 19 Mar 2017 23:55:00 +0530</pubDate>
+      
+      <guid>https://example.com/tags/microservices/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

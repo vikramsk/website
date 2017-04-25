@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Devops on Vikram Sreekumar</title>
+    <link>https://example.com/tags/devops/</link>
+    <description>Recent content in Devops on Vikram Sreekumar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 19 Mar 2017 23:55:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Product Readiness: Dev Ops</title>
+      <link>https://example.com/blog/product-readiness-dev-ops/</link>
+      <pubDate>Sun, 19 Mar 2017 23:55:00 +0530</pubDate>
+      
+      <guid>https://example.com/blog/product-readiness-dev-ops/</guid>
+      <description>This is the talk I gave at a prelude for RootConf India, 2017 held at Directi, Mumbai. This is a modified version of the previous talk I gave on Production Readiness, with a focus towards Dev Ops.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

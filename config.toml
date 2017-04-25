@@ -1,0 +1,32 @@
+baseurl = "https://example.com/"
+theme = "cocoa-eh"
+builddrafts = true
+canonifyurls = true
+contentdir = "content"
+languageCode = "en-US"
+layoutdir = "layouts"
+publishdir = "docs"
+author = "Vikram Sreekumar"
+title = "Vikram Sreekumar"
+disqusshortname = ""
+pluralizelisttitles = false
+
+[permalinks]
+blog = "blog/:slug/"
+
+[params]
+dateform = "Jan 2, 2006"
+dateformfull = "Mon Jan 2 2006 15:04:05 MST"
+description = ""
+latestpostcount = 5
+logofile = "img/profile1.png"
+faviconfile = "img/logo.png"
+highlightjs = true
+progressively = true
+lang = "en"
+github = "vikramsk"
+email = "you@example.com"
+linkedin = "vikramsreekumar"
+twitter = "vikramsreekumar"
+social_banner = "img/banner.png"
+posts_navigation = true
